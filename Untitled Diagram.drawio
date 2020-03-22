@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-22T13:32:23.805Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.2 Safari/605.1.15" etag="6fkm3ZV3WfPZpeK9yHhL" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-22T13:45:42.084Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.2 Safari/605.1.15" etag="-68wKM0rGOw-K5KrxHY-" version="12.8.8" type="github">
   <diagram id="xJZD7wyvopv8Ram0ppgy" name="Page-1">
     <mxGraphModel dx="925" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B173xY29Odf3xIkyXy2j-8" value="User&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="90" width="30" height="60" as="geometry" />
+          <mxGeometry x="380" y="110" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B173xY29Odf3xIkyXy2j-9" value="Put home inventory online" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="30" width="120" height="60" as="geometry" />
@@ -35,28 +35,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B173xY29Odf3xIkyXy2j-11" value="Prepare shopping cart based on &quot;will be missing soon&quot; + wish list" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B173xY29Odf3xIkyXy2j-12" value="User&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="390" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B173xY29Odf3xIkyXy2j-13" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="160" width="120" height="80" as="geometry" />
+          <mxGeometry x="627" y="90" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="B173xY29Odf3xIkyXy2j-14" value="User is notified of found solution(s) for his cart: map with shops matching" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B173xY29Odf3xIkyXy2j-18" value="User chose the cart(s) of his liking" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="B173xY29Odf3xIkyXy2j-18" value="User chose the cart(s) of his liking &amp;amp; do last removals" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B173xY29Odf3xIkyXy2j-19" value="Shop" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="380" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B173xY29Odf3xIkyXy2j-20" value="Shop is notified to prep the cart" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B173xY29Odf3xIkyXy2j-21" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="360" width="120" height="80" as="geometry" />
+          <mxGeometry x="430" y="380" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="B173xY29Odf3xIkyXy2j-22" value="Shop prep the cart&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="430" width="120" height="60" as="geometry" />
@@ -116,7 +116,25 @@
           <mxGeometry x="518" y="540" width="32" height="32" as="geometry" />
         </mxCell>
         <mxCell id="B173xY29Odf3xIkyXy2j-46" value="User pay using contactless QR code with validation sent to Shop" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="538" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B173xY29Odf3xIkyXy2j-47" value="#7" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="530" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B173xY29Odf3xIkyXy2j-48" value="#8" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="530" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B173xY29Odf3xIkyXy2j-49" value="#9" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="520" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B173xY29Odf3xIkyXy2j-50" value="Communicate with GOV &amp;amp; shops the trends" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="715" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B173xY29Odf3xIkyXy2j-51" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/pittogrammi/142/03-128.png" vertex="1" parent="1">
+          <mxGeometry x="454" y="593" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B173xY29Odf3xIkyXy2j-52" value="Add items in the wish list" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
